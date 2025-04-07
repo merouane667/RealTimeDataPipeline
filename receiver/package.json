@@ -1,0 +1,12 @@
+{
+  "name": "employee-receiver",
+  "version": "1.0.0",
+  "description": "Application qui reçoit des données d'employés depuis Kafka",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
