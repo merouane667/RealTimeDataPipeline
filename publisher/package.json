@@ -1,13 +1,14 @@
 {
   "name": "employee-publisher",
   "version": "1.0.0",
-  "description": "Application qui publie des données d'employés vers Kafka",
+  "description": "Publishes employee data from MySQL to Kafka",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
     "kafkajs": "^2.2.4",
-    "mysql2": "^3.6.1"
+    "mysql2": "^3.2.0",
+    "ioredis": "^5.3.2"
   }
 }
