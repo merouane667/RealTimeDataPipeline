@@ -59,3 +59,6 @@
 
 🗂️ Journal d’activité pour suivre les changements
 
+![image](https://github.com/user-attachments/assets/1327fae9-4577-495a-b0d6-ab1312e3bf8e)
+
+
